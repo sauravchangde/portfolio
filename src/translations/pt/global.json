@@ -1,0 +1,273 @@
+{
+    "backToTop": "Voltar ao topo",
+    "header": {
+      "navAriaLabel": "Navegação principal do site",
+      "links": {
+        "profile": "Sobre",
+        "home": "Início",
+        "work": "Trabalho",
+        "experience": "Experiência",
+        "tools": "Ferramentas",
+        "contact": "Contato"
+      }
+    },
+    "aside": {
+      "buttons": {
+        "language": {
+          "alt": "Bandeira da América do Norte",
+          "label": "Idioma"
+        },
+        "theme": {
+          "label": "Tema"
+        }
+      },
+      "dropdowns": {
+        "language": {
+          "pt": {
+            "alt": "Bandeira do Brasil",
+            "label": "Português"
+          },
+          "he": {
+            "alt": "Bandeira de Israel",
+            "label": "Hebraico"
+          },
+          "de": {
+            "alt": "Bandeira da Alemanha",
+            "label": "Alemão"
+          },
+          "en": {
+            "alt": "Bandeira dos Estados Unidos",
+            "label": "Inglês"
+          },
+          "es": {
+            "alt": "Bandeira da Espanha",
+            "label": "Espanhol"
+          },
+          "fr": {
+            "alt": "Bandeira da França",
+            "label": "Francês"
+          }
+        },
+        "theme": {
+          "dark": "Escuro",
+          "light": "Claro"
+        }
+      }
+    },
+    "pages": {
+      "main": {
+        "sections": {
+          "profile": {
+            "photo": {
+              "alt": "Foto de Saurav"
+            },
+            "name": "Saurav Avinash Changde",
+            "description": "Estagiário em Desenvolvimento Backend",
+            "location": "San Jose, EUA",
+            "socials": {
+              "linkedin": "Abrir LinkedIn em uma nova aba",
+              "whatsapp": "Abrir WhatsApp em uma nova aba",
+              "github": "Abrir GitHub em uma nova aba"
+            },
+            "button": "Vamos conversar"
+          },
+          "home": {
+            "title": "PENSE PROFUNDAMENTE",
+            "strong": "CODE SIMPLES",
+            "description": "Transformando problemas complexos em soluções limpas, sustentáveis e escaláveis.",
+            "numbers": {
+              "years": "ANOS DE EXPERIÊNCIA",
+              "projects": "PROJETOS CONCLUÍDOS",
+              "products": "PRODUTOS LANÇADOS"
+            },
+            "buttons": {
+              "contact": "Vamos conversar",
+              "work": "Meu trabalho"
+            }
+          },
+          "work": {
+            "title": "PRODUTOS",
+            "strong": "RECENTES",
+            "products": {
+              "mymech": {
+                "alt": "Foto da MyMech LLC",
+                "name": "MyMech",
+                "description": "Sistema de manutenção de veículos",
+                "status": "Em produção"
+              }
+            }
+          },
+          "experience": {
+            "title": "ANOS DE",
+            "strong": "EXPERIÊNCIA",
+            "companies": {
+              "mymech": {
+                "name": "MyMech LLC",
+                "description": "Desenvolvedor de toda a aplicação, responsável pela arquitetura, segurança, desenvolvimento, produção, mensageria e manutenção.",
+                "role": "Desenvolvedor Full Stack",
+                "period": "2025 - Presente"
+              }
+            }
+          },
+          "tools": {
+            "title": "PRINCIPAIS",
+            "strong": "FERRAMENTAS",
+            "items": {
+              "java": {
+                "name": "Java",
+                "description": "Linguagem de programação"
+              },
+              "spring": {
+                "name": "Spring",
+                "description": "Framework Java"
+              },
+              "python": {
+                "name": "Python",
+                "description": "Linguagem de programação para backend, ML e automação"
+              },
+              "docker": {
+                "name": "Docker",
+                "description": "Plataforma de contêineres"
+              },
+              "typescript": {
+                "name": "TypeScript",
+                "description": "Linguagem de programação"
+              },
+              "reactjs": {
+                "name": "React.js",
+                "description": "Biblioteca JavaScript"
+              },
+              "nextjs": {
+                "name": "Next.js",
+                "description": "Framework React"
+              },
+              "fastapi": {
+                "name": "FastAPI",
+                "description": "Framework Python de alto desempenho para APIs"
+              },
+              "postgres": {
+                "name": "PostgreSQL",
+                "description": "Banco de dados"
+              },
+              "supabase": {
+                "name": "Supabase",
+                "description": "Plataforma de armazenamento"
+              },
+              "flyio": {
+                "name": "Fly.io",
+                "description": "Plataforma de hospedagem"
+              },
+              "googlellm": {
+                "name": "Google Gemini",
+                "description": "Modelos de linguagem para IA multimodal"
+              },
+              "openai": {
+                "name": "OpenAI",
+                "description": "Modelos de linguagem e APIs de IA"
+              },
+              "gcp": {
+                "name": "Google Cloud Platform",
+                "description": "Infraestrutura e serviços em nuvem"
+              },
+              "vercel": {
+                "name": "Vercel",
+                "description": "Plataforma de deploy"
+              }
+            }
+          },
+          "contact": {
+            "title": "VAMOS",
+            "strong": "TRABALHAR JUNTOS",
+            "form": {
+              "legend": "Contato",
+              "name": {
+                "label": "Nome",
+                "placeholder": "Seu nome"
+              },
+              "email": {
+                "label": "Email",
+                "placeholder": "seu@email.com"
+              },
+              "message": {
+                "label": "Mensagem",
+                "placeholder": "Sua mensagem"
+              },
+              "button": {
+                "text": "Enviar"
+              }
+            }
+          }
+        }
+      },
+      "products": {
+        "goHome": "Produtos",
+        "mymech": {
+          "title": "MyMech LLC",
+          "subtitle": "Sistema de manutenção de veículos",
+          "description": "MyMech é um sistema de gerenciamento de manutenção de veículos que permite aos usuários diagnosticar e reparar seus veículos independentemente do nível de conhecimento.",
+          "view": "Ver ao vivo",
+          "navAriaLabel": "Links externos do produto",
+          "roles": {
+            "ulAriaLabel": "Lista de papéis e responsabilidades do projeto MyMech",
+            "branding": {
+              "title": "Branding",
+              "description": "Responsável pelo desenvolvimento da identidade visual do projeto"
+            },
+            "development": {
+              "title": "Desenvolvimento",
+              "description": "Construção de uma interface interativa e dinâmica aplicando boas práticas de desenvolvimento"
+            },
+            "storage": {
+              "title": "Armazenamento",
+              "description": "Banco de dados para informações dos veículos, históricos de manutenção e chats com o mecânico de IA"
+            },
+            "security": {
+              "title": "Segurança",
+              "description": "Garantir que a aplicação seja segura e esteja em conformidade com os padrões atuais"
+            },
+            "messaging": {
+              "title": "Mensageria",
+              "description": "Fornecer uma experiência de chat fluida com o mecânico de IA"
+            },
+            "deploy": {
+              "title": "Deploy",
+              "description": "Configuração do pipeline de deploy contínuo e monitoramento da aplicação em produção"
+            }
+          },
+          "images": {
+            "hero": {
+              "alt": "Visão geral do MyMech"
+            },
+            "ulAriaLabel": "Galeria de imagens das telas do produto",
+            "1": {
+              "alt": "Tela inicial do MyMech"
+            },
+            "2": {
+              "alt": "Página de diagnóstico no MyMech"
+            },
+            "3": {
+              "alt": "Página de configurações no MyMech"
+            },
+            "4": {
+              "alt": "Formulário de adicionar veículo no MyMech"
+            },
+            "5": {
+              "alt": "Chatbot LLM do MyMech"
+            }
+          }
+        }
+      }
+    },
+    "footer": {
+      "author": {
+        "text": "Feito por",
+        "name": "Saurav"
+      },
+      "tech": {
+        "text": "Desenvolvido com",
+        "name": "Next.js"
+      }
+    },
+    "notFound": "Rota inválida."
+  }
+  
